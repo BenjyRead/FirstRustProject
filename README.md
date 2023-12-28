@@ -9,4 +9,4 @@ The stack will be (probably):
 - Rocket (Rust web application framework)
 - SQLite for databases
 
-Might find some simple components to use because 
+Might find some simple components to use because I ain't gonna write a date picker thats effort
